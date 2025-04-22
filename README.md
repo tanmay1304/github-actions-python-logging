@@ -26,4 +26,4 @@ git push origin main
 Optional: GitHub CLI Logs
 gh run list
 gh run view <run-id> --log
-
+the workflow will send an email if it faisl (which it will fail because it has a divide by zero error)
